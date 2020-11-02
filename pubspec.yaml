@@ -13,7 +13,9 @@ dependencies:
   equatable: ^1.2.3
   logging: ^0.11.4
   meta: ^1.1.8
-  sunny_dart: ^0.5.8
+  sunny_dart:
+    git:
+      url: git://github.com/zigapk/sunny_dart.git
 
 dev_dependencies:
   flutter_test:
